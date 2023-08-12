@@ -1,4 +1,4 @@
-# Canvas
+# Assets
 Collection of @molivair assets.
 
 ## Contents
