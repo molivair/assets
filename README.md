@@ -28,7 +28,7 @@ Contributions and suggestions about how to improve this project are welcome!
 Please follow [our contribution guidelines](https://github.com/molivair/assets/blob/main/CONTRIBUTING.md).
 
 ## Support
-If you want to support my work you can do it by following me, leaving a star, sharing my projects or also donating at the links below.  
+If you want to support our work you can do it by following us, leaving a star, sharing our projects or also buying art at the links below.  
 Choose what you find more suitable for you:  
 
 <a href="https://opensea.io/Molivair" target="blank">
