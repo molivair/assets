@@ -10,7 +10,7 @@ Collection of @molivair assets.
 - [License](#license)
 
 ## Installation
-Follow the steps below to make use of Emdees.
+Follow the steps below to make use of Assets.
 
 Clone this repository:
 ```bash
